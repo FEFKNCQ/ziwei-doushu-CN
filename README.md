@@ -1,3 +1,10 @@
+> **下载说明**
+> 推荐通过百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/1F9hcro5-5NLhhCAceMCeZg?pwd=i95r
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/ziwei-doushu-CN/releases) 下载。
+
+
 <div align="center">
 
 # 紫微斗数 · 开源排盘引擎
